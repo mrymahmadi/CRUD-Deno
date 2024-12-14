@@ -11,7 +11,7 @@ i used into project of Fastify - Prisma - Postgres - ts - Deno
 
 
 **Well, let's test our CRUD base** <br> <br>
-**CREATTE:**
+**CREATE:**
 ![Screenshot from 2024-12-14 10-51-14](https://github.com/user-attachments/assets/7ea1b64a-664e-4f8d-b317-35b71c531c9d)
 
 **READ ALL:**
