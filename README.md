@@ -3,7 +3,8 @@ i used into project of Fastify - Prisma - Postgres - ts - Deno
 
 **At first, the project is running with this command:**
 
-`deno task dev`
+`deno task dev` 
+<br>
 **and response for you this message:**
 ![Screenshot from 2024-12-14 10-47-09](https://github.com/user-attachments/assets/d6a5e91d-6a92-4f05-8299-92418aa243ae)
 
